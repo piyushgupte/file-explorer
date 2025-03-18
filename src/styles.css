@@ -7,3 +7,12 @@
   padding-left: 50px;
   cursor: pointer;
 }
+.img {
+  hight: 15px;
+  width: 15px;
+  /* padding-left: 10px; */
+  margin-left: 10px;
+}
+.controls {
+  display: flex;
+}
